@@ -6,7 +6,7 @@
 
 **Travel Dark Landing Page** is a sophisticated, immersive interface designed to showcase global destinations. This project emphasizes a premium "Apple-style" dark aesthetic, combining high-resolution nature photography with elegant, high-contrast typography and a clean, grid-based content structure.
 
-🔗 **Live Demo:** [travel-dark-its.vercel.app](https://travel-dark-its.vercel.app/)
+🔗 **Live Demo:** [travel-dark-landing.vercel.app](https://travel-dark-landing.vercel.app/)
 
 ---
 
